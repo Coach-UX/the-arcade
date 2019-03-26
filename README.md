@@ -5,7 +5,7 @@
 
 <img src="http://bobbymarcus.com/img/ny-0.png" width="40%">
 
-<br/><br/>
+<br/>
 
 <img src="http://bobbymarcus.com/img/NY-1.png" width="45%" align="left">
 
@@ -16,7 +16,7 @@
 
 <img src="http://bobbymarcus.com/img/rh-0.png" width="40%">
 
-<br/><br/>
+<br/>
 
 <img src="http://bobbymarcus.com/img/RH-1.png" width="45%" align="left">
 
