@@ -3,9 +3,7 @@
 
 <br/><br/>
 
-<p align="center" width="100%">
-<img src="http://bobbymarcus.com/img/ny-0.png" width="300">
-</p>
+<img src="http://bobbymarcus.com/img/ny-0.png" width="40%">
 
 <br/><br/>
 
@@ -13,12 +11,10 @@
 
 <img src="http://bobbymarcus.com/img/NY-4.png" width="45%" align="right">
 
+
 <br/><br/><br/><br/>
 
-
-<p align="center" width="100%">
-<img src="http://bobbymarcus.com/img/rh-0.png" width="300">
- </p>
+<img src="http://bobbymarcus.com/img/rh-0.png" width="40%">
 
 <br/><br/>
 
